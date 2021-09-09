@@ -1,4 +1,4 @@
-<h1 align ="center">JaeHyeon GitHub Profile README
+<h1 align ="center">JaeHyeon GitHub Profile README</h1>
 
 ---
 
