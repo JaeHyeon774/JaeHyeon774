@@ -7,9 +7,9 @@
 [![JaeHyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=JaeHyeon774)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[자기소개](##자기소개)
+[자기소개](#자기소개)
 
-[사진](##사진)
+[사진](#사진)
 
 
 
