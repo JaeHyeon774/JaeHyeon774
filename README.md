@@ -16,7 +16,7 @@
 * **이름(Name)		: :smile:박재현:smile:**
 * **나이(Age) 			: 27 (1995.02.12),🐷(돼지띠)**
 * **사는 곳(Address) : 인천광역시 부평구**
-* **MBIT					  : ENTP:relaxed:**
+* **MBTI					  : ENTP:relaxed:**
 
 ---
 
