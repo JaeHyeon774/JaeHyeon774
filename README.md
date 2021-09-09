@@ -2,7 +2,7 @@
 
 ---
 
-[![Hits](README.assets/badge.svgurl=https%253A%252F%252Fgithub-16311733595332.com%252FJaeHyeon774&count_bg=%252379C83D&title_bg=%2523555555&icon=&icon_color=%2523E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23543DC8&title_bg=%23D392DF&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 [![JaeHyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=JaeHyeon774)](https://github.com/anuraghazra/github-readme-stats)
 
