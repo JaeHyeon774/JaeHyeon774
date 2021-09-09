@@ -13,25 +13,21 @@
 
 ## 자기소개 
 
----
-
 * **이름(Name)		: :smile:박재현:smile:**
-
 * **나이(Age) 			: 27 (1995.02.12),🐷(돼지띠)**
-
 * **전화번호(Phone) : 010-3062-0212**
-
 * **사는 곳(Address) : 인천광역시 부평구**
-
 * **MBIT					  : ENTP:relaxed:**
+
+---
 
 
 
 ## SNS
 
----
-
 * **[Instagram](https://www.instagram.com/hyeo.n2/)**
 
 * **[Facebook](https://www.facebook.com/vel.tra.92/)**
+
+---
 
