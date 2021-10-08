@@ -27,6 +27,7 @@
 * **[Instagram](https://www.instagram.com/hyeo.n2/)**
 
 * **[Facebook](https://www.facebook.com/vel.tra.92/)**
+* **[EMail](wogus774@naver.com)**
 
 ---
 
