@@ -15,19 +15,11 @@
 
 * **이름(Name)		: :smile:박재현:smile:**
 * **나이(Age) 			: 27 (1995.02.12),🐷(돼지띠)**
-* **사는 곳(Address) : 인천광역시 부평구**
-* **MBTI					  : ENTP:relaxed:**
+* **MBTI					  : ENFP:relaxed:**
 
 ---
 
 
-
-## SNS
-
-* **[Instagram](https://www.instagram.com/hyeo.n2/)**
-
-* **[Facebook](https://www.facebook.com/vel.tra.92/)**
-* **Email : wogus774@naver.com**
 
 ---
 
